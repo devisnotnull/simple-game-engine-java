@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <orderEntry type="inheritedJdk"/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/main/groovy" isTestSource="false"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/test/groovy" isTestSource="true"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+    </content>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.3.11/f6b34997d04c1538ce451d3955298f46fdb4dbd4/groovy-all-2.3.11.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.3.11/fdf089bfd5d0b7e86100ac599741f65732fc21d5/groovy-all-2.3.11-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.joml/joml-camera/1.2.0-SNAPSHOT/b7f8110aff00e34f55f6199192040a777f88a1f2/joml-camera-1.2.0-SNAPSHOT.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.joml/joml-camera/1.2.0-SNAPSHOT/badcd2917a4c51de722770a21a6ed72a7bf65582/joml-camera-1.2.0-SNAPSHOT-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-assimp/3.2.3/f62aa07a20afbdd3097efc296c4841e0d29700eb/lwjgl-assimp-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-assimp/3.2.3/9be0faa052b36c1da75b72445bb06b1260a83104/lwjgl-assimp-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-bgfx/3.2.3/433883c4040fa8df47244dffa1d42c96ce2143de/lwjgl-bgfx-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-bgfx/3.2.3/cb24cbe95fa3f0ed65cec3be0c8c7bbea7ca3985/lwjgl-bgfx-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-cuda/3.2.3/fb91f3aaa29e69eee7f1314a63d3e3068ad138e4/lwjgl-cuda-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-cuda/3.2.3/69882d594e0791753bd1edc515923ce9e79b3073/lwjgl-cuda-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-egl/3.2.3/45ad689a4346fac69d4e8696fa02aaa98f0ea196/lwjgl-egl-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-egl/3.2.3/7c1155c1a11ece020e03fa70afee58d757dba071/lwjgl-egl-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.2.3/5e520d5c290c8b012545a8d34fa5db5ab051ea53/lwjgl-glfw-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.2.3/1a9ca088c5c46bf4a3948819a70009da32b1d156/lwjgl-glfw-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.2.3/58661272eacb9116336c88b4aadccf1f17c09b/lwjgl-glfw-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.2.3/1a9ca088c5c46bf4a3948819a70009da32b1d156/lwjgl-glfw-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jawt/3.2.3/b93ceb43c55c28651e178af42e1f344e1e9d8bf3/lwjgl-jawt-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jawt/3.2.3/ad52985c95464dbc6bd0fb623c11ca43eb4ddbbf/lwjgl-jawt-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.2.3/b6fd0932171ba3f2eaa4547beddca3a3e645342d/lwjgl-jemalloc-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.2.3/719bf6a510873591fc9d58d74108745f39078d4c/lwjgl-jemalloc-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-libdivide/3.2.3/58c515f934b8b3fd64897d436a9aaea518ac180a/lwjgl-libdivide-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-libdivide/3.2.3/10679c0c2094ff89fad8f5ff8370606313988c9e/lwjgl-libdivide-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-llvm/3.2.3/c7c6412ec449d3bdf674ac4a56fc3af75a0c6b68/lwjgl-llvm-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-llvm/3.2.3/718374e965bc638c9b27c2154e1b0bbc22caed7c/lwjgl-llvm-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-lmdb/3.2.3/d83c11e033018cc1c3d9172ab38a4558e599c38b/lwjgl-lmdb-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-lmdb/3.2.3/14d8c45c6492e6d04d9fcbefafcdd5f629956b96/lwjgl-lmdb-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-lz4/3.2.3/8b94f94afedf76ed7cdbe66553974a55a1234ca5/lwjgl-lz4-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-lz4/3.2.3/817479f7b7a87efff60dc0a70c9464835be94e25/lwjgl-lz4-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-meow/3.2.3/4b679d2fcc56d5d8b7ab45ed42568bf6ee5fda5b/lwjgl-meow-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-meow/3.2.3/f91491967a94e440c93c2087da513f26ab37b280/lwjgl-meow-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nanovg/3.2.3/718be4a13691d1cd276fa852326e9e837d65204e/lwjgl-nanovg-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nanovg/3.2.3/286ea8c6c0930d61d1e6f5936a3e8da2d4055151/lwjgl-nanovg-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nfd/3.2.3/c44fee1043c022cf6614a28872d44cf114ca7737/lwjgl-nfd-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nfd/3.2.3/cc5bafb0d6628e39d6a6517c07154e2642f0eb94/lwjgl-nfd-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nuklear/3.2.3/45bfab23e975201bf3cb81287be6034adec64a86/lwjgl-nuklear-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nuklear/3.2.3/29c62968ed761a9b662282a21b9a6815200b59ee/lwjgl-nuklear-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-odbc/3.2.3/891c336a725361ef4b72893ac86d763a178ef39d/lwjgl-odbc-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-odbc/3.2.3/e5d19dac79b93bfc470b5feb889fdb2860f3fc8/lwjgl-odbc-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.2.3/106742e805803ab9eab8e343f0fb31a3d263903c/lwjgl-openal-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.2.3/d6c1395d3d34a7a30d90135266cf97c9bcdc6293/lwjgl-openal-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opencl/3.2.3/3061cd1e012ede64c606f64a5a3cf956dad7dc07/lwjgl-opencl-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opencl/3.2.3/8abf12c74d5c85ab44b5157aa03564a5c01b68ef/lwjgl-opencl-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.2.3/bdd534a323d0c8f54969b95e424b6ac8984f7d6e/lwjgl-opengl-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.2.3/2d7ad358a5133db65ee8b1c97cf1f1a426597598/lwjgl-opengl-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.2.3/efa3326c11336d3e74c9c8aeceb2420328d28e6b/lwjgl-opengl-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.2.3/2d7ad358a5133db65ee8b1c97cf1f1a426597598/lwjgl-opengl-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengles/3.2.3/77a9ef18a071cb0219bcfa8c9199cee935d0c974/lwjgl-opengles-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengles/3.2.3/118d25e6e3a39b8ca8e68d5c29d874a293761206/lwjgl-opengles-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openvr/3.2.3/ea19076fc886f2e8a95b50a7f95401606b5282ff/lwjgl-openvr-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openvr/3.2.3/e71b39bba5d6243a0f71a028c90871ef82fbfec/lwjgl-openvr-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opus/3.2.3/a14c270d0fa7dc32155f4fe3b3599e22bd52dc89/lwjgl-opus-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opus/3.2.3/f6a18e791c6caef373057782e2035d96c66fa6e4/lwjgl-opus-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-par/3.2.3/92d96fe3a3345f4c18ca0e682de41b20ec64b70c/lwjgl-par-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-par/3.2.3/c23bfd55e1ca0fed9f71014584e0ddb3a142cb89/lwjgl-par-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-remotery/3.2.3/c4f0af089b9a0463f8f69ef8e64d24afd8581379/lwjgl-remotery-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-remotery/3.2.3/16e40555f8a61ac80d30cabba520de7fd0ea4f12/lwjgl-remotery-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-rpmalloc/3.2.3/b9daea15f7250fa6e9dd8e4c207cd9470c8cb460/lwjgl-rpmalloc-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-rpmalloc/3.2.3/bdc13d1c8b7cfc31b3ae70296f426c6a8518c7dd/lwjgl-rpmalloc-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-shaderc/3.2.3/3612d4ed5466d100b7cf31f188530c3bdaa23145/lwjgl-shaderc-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-shaderc/3.2.3/b8ed672ffd715e967d02c545c497db2bdaefa58d/lwjgl-shaderc-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-sse/3.2.3/feb5cadf9093cb59a476321e2d0ba060c173b679/lwjgl-sse-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-sse/3.2.3/cbe0e81186fd2ea06563ae794a5e8d0d91aa3ee1/lwjgl-sse-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.2.3/40eccaa4fa86fc815f2e17946a392fb5fdcc286a/lwjgl-stb-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.2.3/8f5acf50b571dee1b66ec31dc7b4f87ad81f30a7/lwjgl-stb-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.2.3/7eed8caff57c3f795af2e2d0049c43a6e4d56474/lwjgl-stb-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.2.3/8f5acf50b571dee1b66ec31dc7b4f87ad81f30a7/lwjgl-stb-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyexr/3.2.3/6418951119fea1e19cf317c684787799b43f6384/lwjgl-tinyexr-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyexr/3.2.3/c4ee15298a8a39a97e2ee4c4792b0e5fab1128b/lwjgl-tinyexr-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.2.3/d5edf89c7b6ca1ea20865a6ba0a09bfc5efb29c1/lwjgl-tinyfd-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.2.3/d0aef5d3d657d1409b968c30e5ea4293ef98c451/lwjgl-tinyfd-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tootle/3.2.3/4b39ad490787c0c078c81a26ca78d052200ff6ac/lwjgl-tootle-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tootle/3.2.3/124442307c593f0cddf4c95616a0affd7dfc875b/lwjgl-tootle-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vma/3.2.3/b8f6485a6e7e5785877474999e1e8451731bad09/lwjgl-vma-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vma/3.2.3/6f6b0f7920bdcba1a99125dd363304a9040e8ca3/lwjgl-vma-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vulkan/3.2.3/34a69f76173952424e85943a2dc7d9efd3d8ff9c/lwjgl-vulkan-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vulkan/3.2.3/623f22510e9ba7eb62c4928447409077e922229f/lwjgl-vulkan-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-xxhash/3.2.3/3adacbf7d5318ce06db0e7d709b21dd18d9b21a5/lwjgl-xxhash-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-xxhash/3.2.3/916d1e23d27986c4aa58b43e80b1d9a06c60bde1/lwjgl-xxhash-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-yoga/3.2.3/a4c9545692479ec63ddbcda835fb4d655fffba52/lwjgl-yoga-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-yoga/3.2.3/72acf7ded2f5db5f7583425f14e70f774cf55e93/lwjgl-yoga-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-zstd/3.2.3/48fc900c0bf0d2d6f17d1e39ae62b06ddaea0d01/lwjgl-zstd-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-zstd/3.2.3/7ea16db418022b53d9971c41e5f455fbaca67d8c/lwjgl-zstd-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.2.3/17a59ba0fe8d474ec9dbe0d5db40d2cfe59c4c08/lwjgl-3.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.2.3/16863519eef4ae1df04394ab7a65c4b5c4e24199/lwjgl-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.2.3/35f506c5d368017a3cc5590da3d6d3a0760fb606/lwjgl-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.2.3/16863519eef4ae1df04394ab7a65c4b5c4e24199/lwjgl-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.joml/joml/1.9.18-SNAPSHOT/24f53fe088a0bf7e98697ba1cdfbfc7c629bd21b/joml-1.9.18-SNAPSHOT.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.joml/joml/1.9.18-SNAPSHOT/287dcd7595e037bb5f1a1082e27b92d877b75b86/joml-1.9.18-SNAPSHOT-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-assimp/3.2.3/6efe40673c59667d5eb759c5a77e53e0f5abdb31/lwjgl-assimp-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-assimp/3.2.3/9be0faa052b36c1da75b72445bb06b1260a83104/lwjgl-assimp-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-bgfx/3.2.3/ae9b31bbbe5e2783e9611f9bebe7d83d86a3cfb1/lwjgl-bgfx-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-bgfx/3.2.3/cb24cbe95fa3f0ed65cec3be0c8c7bbea7ca3985/lwjgl-bgfx-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.2.3/d6ffcb4224d3ccd3c31bd80093f71e69a7133a6a/lwjgl-jemalloc-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.2.3/719bf6a510873591fc9d58d74108745f39078d4c/lwjgl-jemalloc-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-libdivide/3.2.3/9795b9cdc85e405fd2c1b9eb1ca8f209f164f26a/lwjgl-libdivide-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-libdivide/3.2.3/10679c0c2094ff89fad8f5ff8370606313988c9e/lwjgl-libdivide-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-llvm/3.2.3/75ad173193edb2a2b8b61a4874b73afcdad669b0/lwjgl-llvm-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-llvm/3.2.3/718374e965bc638c9b27c2154e1b0bbc22caed7c/lwjgl-llvm-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-lmdb/3.2.3/6319eb655c9745ef92508ab23b718fe641ffda3c/lwjgl-lmdb-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-lmdb/3.2.3/14d8c45c6492e6d04d9fcbefafcdd5f629956b96/lwjgl-lmdb-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-lz4/3.2.3/a703e3fd3f2e3684c281e3224cf6201638ed285e/lwjgl-lz4-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-lz4/3.2.3/817479f7b7a87efff60dc0a70c9464835be94e25/lwjgl-lz4-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-meow/3.2.3/59f931b88ca99c825f1bb406227f7cc9ad335228/lwjgl-meow-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-meow/3.2.3/f91491967a94e440c93c2087da513f26ab37b280/lwjgl-meow-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nanovg/3.2.3/d48a7664a26a8af2dd907bfdebe8e8fe7b8cb869/lwjgl-nanovg-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nanovg/3.2.3/286ea8c6c0930d61d1e6f5936a3e8da2d4055151/lwjgl-nanovg-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nfd/3.2.3/11b7592bbe7e2eb584c59285e75e88cb1ce2b08a/lwjgl-nfd-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nfd/3.2.3/cc5bafb0d6628e39d6a6517c07154e2642f0eb94/lwjgl-nfd-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nuklear/3.2.3/36848329d1ebe7661187ca1c985c22c7ec32a8f7/lwjgl-nuklear-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nuklear/3.2.3/29c62968ed761a9b662282a21b9a6815200b59ee/lwjgl-nuklear-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.2.3/67ddd2a090589dfe6c4659d7f8b125b43f7b822b/lwjgl-openal-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.2.3/d6c1395d3d34a7a30d90135266cf97c9bcdc6293/lwjgl-openal-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengles/3.2.3/cb20b64a8304285489aab3f4fa250b0875f7a222/lwjgl-opengles-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengles/3.2.3/118d25e6e3a39b8ca8e68d5c29d874a293761206/lwjgl-opengles-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openvr/3.2.3/757ceba1aa55084479747dbae893123cffc2ca17/lwjgl-openvr-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openvr/3.2.3/e71b39bba5d6243a0f71a028c90871ef82fbfec/lwjgl-openvr-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opus/3.2.3/91974587b97c9dcc7ed207d6df3fa642a6e6408c/lwjgl-opus-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opus/3.2.3/f6a18e791c6caef373057782e2035d96c66fa6e4/lwjgl-opus-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-par/3.2.3/f95546ef562e42837db42c5fc16b54d2c07807ee/lwjgl-par-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-par/3.2.3/c23bfd55e1ca0fed9f71014584e0ddb3a142cb89/lwjgl-par-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-remotery/3.2.3/eb78e65c95784e8c5fb1f1bf892852b4835ee3a2/lwjgl-remotery-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-remotery/3.2.3/16e40555f8a61ac80d30cabba520de7fd0ea4f12/lwjgl-remotery-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-rpmalloc/3.2.3/3c6d78700710de10b04b95be9d392f94554446d1/lwjgl-rpmalloc-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-rpmalloc/3.2.3/bdc13d1c8b7cfc31b3ae70296f426c6a8518c7dd/lwjgl-rpmalloc-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-shaderc/3.2.3/58e46376e97db1f43839b67d03a330a36645852a/lwjgl-shaderc-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-shaderc/3.2.3/b8ed672ffd715e967d02c545c497db2bdaefa58d/lwjgl-shaderc-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-sse/3.2.3/f320fb828864305e015020146645a3f8529b289e/lwjgl-sse-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-sse/3.2.3/cbe0e81186fd2ea06563ae794a5e8d0d91aa3ee1/lwjgl-sse-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyexr/3.2.3/724f46893f7e77c9c31150f3808d3ff5620f5e33/lwjgl-tinyexr-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyexr/3.2.3/c4ee15298a8a39a97e2ee4c4792b0e5fab1128b/lwjgl-tinyexr-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.2.3/7cb8ad521749516ab87b47d737399845f1649eee/lwjgl-tinyfd-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.2.3/d0aef5d3d657d1409b968c30e5ea4293ef98c451/lwjgl-tinyfd-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tootle/3.2.3/4f6455cdb7fe6ccc86ea9cdedede7862e138b7ce/lwjgl-tootle-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tootle/3.2.3/124442307c593f0cddf4c95616a0affd7dfc875b/lwjgl-tootle-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vma/3.2.3/6a6e027e4b0a60309c885f10c1855584397ded85/lwjgl-vma-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vma/3.2.3/6f6b0f7920bdcba1a99125dd363304a9040e8ca3/lwjgl-vma-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vulkan/3.2.3/46f70b20ccab76c3b23136a6088184e8a0af55bd/lwjgl-vulkan-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vulkan/3.2.3/623f22510e9ba7eb62c4928447409077e922229f/lwjgl-vulkan-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-xxhash/3.2.3/dab3e9e8fdb585fd239a0084a3df44ac8fcf26db/lwjgl-xxhash-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-xxhash/3.2.3/916d1e23d27986c4aa58b43e80b1d9a06c60bde1/lwjgl-xxhash-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-yoga/3.2.3/52088a651ed61d9f4697423aa07e2f5d1cfe01ee/lwjgl-yoga-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-yoga/3.2.3/72acf7ded2f5db5f7583425f14e70f774cf55e93/lwjgl-yoga-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-zstd/3.2.3/421b8577fd4e26155ce2d628dd562e581f874673/lwjgl-zstd-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-zstd/3.2.3/7ea16db418022b53d9971c41e5f455fbaca67d8c/lwjgl-zstd-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-assimp/3.2.3/6efe40673c59667d5eb759c5a77e53e0f5abdb31/lwjgl-assimp-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-assimp/3.2.3/9be0faa052b36c1da75b72445bb06b1260a83104/lwjgl-assimp-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-bgfx/3.2.3/ae9b31bbbe5e2783e9611f9bebe7d83d86a3cfb1/lwjgl-bgfx-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-bgfx/3.2.3/cb24cbe95fa3f0ed65cec3be0c8c7bbea7ca3985/lwjgl-bgfx-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.2.3/d6ffcb4224d3ccd3c31bd80093f71e69a7133a6a/lwjgl-jemalloc-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.2.3/719bf6a510873591fc9d58d74108745f39078d4c/lwjgl-jemalloc-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-libdivide/3.2.3/9795b9cdc85e405fd2c1b9eb1ca8f209f164f26a/lwjgl-libdivide-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-libdivide/3.2.3/10679c0c2094ff89fad8f5ff8370606313988c9e/lwjgl-libdivide-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-llvm/3.2.3/75ad173193edb2a2b8b61a4874b73afcdad669b0/lwjgl-llvm-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-llvm/3.2.3/718374e965bc638c9b27c2154e1b0bbc22caed7c/lwjgl-llvm-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-lmdb/3.2.3/6319eb655c9745ef92508ab23b718fe641ffda3c/lwjgl-lmdb-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-lmdb/3.2.3/14d8c45c6492e6d04d9fcbefafcdd5f629956b96/lwjgl-lmdb-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-lz4/3.2.3/a703e3fd3f2e3684c281e3224cf6201638ed285e/lwjgl-lz4-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-lz4/3.2.3/817479f7b7a87efff60dc0a70c9464835be94e25/lwjgl-lz4-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-meow/3.2.3/59f931b88ca99c825f1bb406227f7cc9ad335228/lwjgl-meow-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-meow/3.2.3/f91491967a94e440c93c2087da513f26ab37b280/lwjgl-meow-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nanovg/3.2.3/d48a7664a26a8af2dd907bfdebe8e8fe7b8cb869/lwjgl-nanovg-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nanovg/3.2.3/286ea8c6c0930d61d1e6f5936a3e8da2d4055151/lwjgl-nanovg-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nfd/3.2.3/11b7592bbe7e2eb584c59285e75e88cb1ce2b08a/lwjgl-nfd-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nfd/3.2.3/cc5bafb0d6628e39d6a6517c07154e2642f0eb94/lwjgl-nfd-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nuklear/3.2.3/36848329d1ebe7661187ca1c985c22c7ec32a8f7/lwjgl-nuklear-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nuklear/3.2.3/29c62968ed761a9b662282a21b9a6815200b59ee/lwjgl-nuklear-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.2.3/67ddd2a090589dfe6c4659d7f8b125b43f7b822b/lwjgl-openal-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.2.3/d6c1395d3d34a7a30d90135266cf97c9bcdc6293/lwjgl-openal-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengles/3.2.3/cb20b64a8304285489aab3f4fa250b0875f7a222/lwjgl-opengles-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengles/3.2.3/118d25e6e3a39b8ca8e68d5c29d874a293761206/lwjgl-opengles-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openvr/3.2.3/757ceba1aa55084479747dbae893123cffc2ca17/lwjgl-openvr-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openvr/3.2.3/e71b39bba5d6243a0f71a028c90871ef82fbfec/lwjgl-openvr-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opus/3.2.3/91974587b97c9dcc7ed207d6df3fa642a6e6408c/lwjgl-opus-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opus/3.2.3/f6a18e791c6caef373057782e2035d96c66fa6e4/lwjgl-opus-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-par/3.2.3/f95546ef562e42837db42c5fc16b54d2c07807ee/lwjgl-par-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-par/3.2.3/c23bfd55e1ca0fed9f71014584e0ddb3a142cb89/lwjgl-par-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-remotery/3.2.3/eb78e65c95784e8c5fb1f1bf892852b4835ee3a2/lwjgl-remotery-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-remotery/3.2.3/16e40555f8a61ac80d30cabba520de7fd0ea4f12/lwjgl-remotery-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-rpmalloc/3.2.3/3c6d78700710de10b04b95be9d392f94554446d1/lwjgl-rpmalloc-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-rpmalloc/3.2.3/bdc13d1c8b7cfc31b3ae70296f426c6a8518c7dd/lwjgl-rpmalloc-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-shaderc/3.2.3/58e46376e97db1f43839b67d03a330a36645852a/lwjgl-shaderc-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-shaderc/3.2.3/b8ed672ffd715e967d02c545c497db2bdaefa58d/lwjgl-shaderc-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-sse/3.2.3/f320fb828864305e015020146645a3f8529b289e/lwjgl-sse-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-sse/3.2.3/cbe0e81186fd2ea06563ae794a5e8d0d91aa3ee1/lwjgl-sse-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyexr/3.2.3/724f46893f7e77c9c31150f3808d3ff5620f5e33/lwjgl-tinyexr-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyexr/3.2.3/c4ee15298a8a39a97e2ee4c4792b0e5fab1128b/lwjgl-tinyexr-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.2.3/7cb8ad521749516ab87b47d737399845f1649eee/lwjgl-tinyfd-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.2.3/d0aef5d3d657d1409b968c30e5ea4293ef98c451/lwjgl-tinyfd-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tootle/3.2.3/4f6455cdb7fe6ccc86ea9cdedede7862e138b7ce/lwjgl-tootle-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tootle/3.2.3/124442307c593f0cddf4c95616a0affd7dfc875b/lwjgl-tootle-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vma/3.2.3/6a6e027e4b0a60309c885f10c1855584397ded85/lwjgl-vma-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vma/3.2.3/6f6b0f7920bdcba1a99125dd363304a9040e8ca3/lwjgl-vma-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vulkan/3.2.3/46f70b20ccab76c3b23136a6088184e8a0af55bd/lwjgl-vulkan-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vulkan/3.2.3/623f22510e9ba7eb62c4928447409077e922229f/lwjgl-vulkan-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-xxhash/3.2.3/dab3e9e8fdb585fd239a0084a3df44ac8fcf26db/lwjgl-xxhash-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-xxhash/3.2.3/916d1e23d27986c4aa58b43e80b1d9a06c60bde1/lwjgl-xxhash-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-yoga/3.2.3/52088a651ed61d9f4697423aa07e2f5d1cfe01ee/lwjgl-yoga-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-yoga/3.2.3/72acf7ded2f5db5f7583425f14e70f774cf55e93/lwjgl-yoga-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-zstd/3.2.3/421b8577fd4e26155ce2d628dd562e581f874673/lwjgl-zstd-3.2.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/alexbrown/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-zstd/3.2.3/7ea16db418022b53d9971c41e5f455fbaca67d8c/lwjgl-zstd-3.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="ModuleRootManager"/>
+</module>
