@@ -24,7 +24,40 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1b961dc-b799-448a-a1e7-23bc62040c95" name="Default Changelist" comment="" />
+    <list default="true" id="b1b961dc-b799-448a-a1e7-23bc62040c95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/devnotnull/gamily/shaders/AbstractShader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/devnotnull/gamily/shaders/StaticShader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/devnotnull/gamily/shaders/shader.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/devnotnull/gamily/shaders/shader.vert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/renderEngine/DisplayManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/renderEngine/Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/renderEngine/RawModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/renderEngine/Renderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/simple-game-engine-1.0-SNAPSHOT.tar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/simple-game-engine-1.0-SNAPSHOT.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/all-in-one-jar-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/all-in-one-jar-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/simple-game-engine-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/simple-game-engine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/simple-game-engine.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/fatJar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/fatJar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/renderEngine/DisplayManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/devnotnull/gamily/DisplayManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/renderEngine/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/devnotnull/gamily/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/renderEngine/RawModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/devnotnull/gamily/RawModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/renderEngine/Renderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/devnotnull/gamily/Renderer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +78,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="bVokGbxd" />
   </component>
@@ -52,6 +88,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1VrA11ohx0OXGvSryaUOe4h0kN3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -59,6 +96,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -74,11 +112,11 @@
   </component>
   <component name="RunManager" selected="Gradle.simple-game-engine (1)">
     <configuration name="DisplayManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="renderEngine.DisplayManager" />
+      <option name="MAIN_CLASS_NAME" value="org.devnotnull.gamily.DisplayManager" />
       <module name="simple-game-engine.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="renderEngine.*" />
+          <option name="PATTERN" value="org.devnotnull.gamily.shaders.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,18 +199,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="627" y="-935" key="#Project_Structure" timestamp="1578006192668">
+    <state x="624" y="-936" key="#Project_Structure" timestamp="1578257079915">
       <screen x="67" y="-1200" width="1920" height="1200" />
     </state>
-    <state x="627" y="-935" key="#Project_Structure/0.0.2048.1280/67.-1200.1920.1200@67.-1200.1920.1200" timestamp="1578006192668" />
+    <state x="624" y="-936" key="#Project_Structure/0.0.2048.1280/67.-1200.1920.1200@67.-1200.1920.1200" timestamp="1578257079915" />
     <state x="491" y="-938" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578002760450">
       <screen x="67" y="-1200" width="1920" height="1200" />
     </state>
     <state x="491" y="-938" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1280/67.-1200.1920.1200@67.-1200.1920.1200" timestamp="1578002760450" />
+    <state x="521" y="-795" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578253850463">
+      <screen x="67" y="-1200" width="1920" height="1200" />
+    </state>
+    <state x="521" y="-795" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1280/67.-1200.1920.1200@67.-1200.1920.1200" timestamp="1578253850463" />
     <state x="840" y="-909" key="#com.intellij.ide.util.MemberChooser" timestamp="1578009153509">
       <screen x="67" y="-1200" width="1920" height="1200" />
     </state>
     <state x="840" y="-909" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1257/67.-1200.1920.1200@67.-1200.1920.1200" timestamp="1578009153509" />
+    <state x="644" y="-668" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578251332507">
+      <screen x="67" y="-1200" width="1920" height="1200" />
+    </state>
+    <state x="644" y="-668" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2048.1280/67.-1200.1920.1200@67.-1200.1920.1200" timestamp="1578251332507" />
     <state width="2006" height="134" key="GridCell.Tab.0.bottom" timestamp="1578244105978">
       <screen x="0" y="23" width="2048" height="1210" />
     </state>
@@ -201,15 +247,19 @@
       <screen x="67" y="-1177" width="1920" height="1177" />
     </state>
     <state x="536" y="-950" key="SettingsEditor/0.23.2048.1208/67.-1177.1920.1177@67.-1177.1920.1177" timestamp="1578248915821" />
-    <state x="720" y="-768" key="com.intellij.ide.util.TipDialog" timestamp="1578248929860">
+    <state x="720" y="-768" key="com.intellij.ide.util.TipDialog" timestamp="1578256023736">
       <screen x="67" y="-1200" width="1920" height="1200" />
     </state>
     <state x="697" y="444" key="com.intellij.ide.util.TipDialog/0.0.2048.1280/67.-1200.1920.1200@0.0.2048.1280" timestamp="1578240246527" />
-    <state x="720" y="-768" key="com.intellij.ide.util.TipDialog/0.0.2048.1280/67.-1200.1920.1200@67.-1200.1920.1200" timestamp="1578248929860" />
+    <state x="720" y="-768" key="com.intellij.ide.util.TipDialog/0.0.2048.1280/67.-1200.1920.1200@67.-1200.1920.1200" timestamp="1578256023736" />
     <state x="697" y="442" key="com.intellij.ide.util.TipDialog/0.23.2048.1208/67.-1177.1920.1177@0.23.2048.1208" timestamp="1578248887663" />
-    <state x="707" y="-957" width="639" height="714" key="find.popup" timestamp="1578241489861">
+    <state x="707" y="-957" width="782" height="714" key="find.popup" timestamp="1578257640127">
       <screen x="67" y="-1200" width="1920" height="1200" />
     </state>
-    <state x="707" y="-957" width="639" height="714" key="find.popup/0.0.2048.1280/67.-1200.1920.1200@67.-1200.1920.1200" timestamp="1578241489861" />
+    <state x="707" y="-957" width="782" height="714" key="find.popup/0.0.2048.1280/67.-1200.1920.1200@67.-1200.1920.1200" timestamp="1578257640127" />
+    <state x="690" y="-931" width="672" height="678" key="search.everywhere.popup" timestamp="1578256646419">
+      <screen x="67" y="-1200" width="1920" height="1200" />
+    </state>
+    <state x="690" y="-931" width="672" height="678" key="search.everywhere.popup/0.0.2048.1280/67.-1200.1920.1200@67.-1200.1920.1200" timestamp="1578256646419" />
   </component>
 </project>

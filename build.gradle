@@ -7,7 +7,7 @@ apply plugin: "java"
 apply plugin: "idea"
 
 ext {
-    javaMainClass = "renderEngine.DisplayManager"
+    javaMainClass = "org.devnotnull.gamily.DisplayManager"
 }
 
 project.ext.lwjglVersion = "3.2.3"
@@ -29,7 +29,7 @@ application {
 
 task fatJar(type: Jar) {
     manifest {
-        attributes 'Main-Class': 'renderEngine.DisplayManager'
+        attributes 'Main-Class': 'org.devnotnull.gamily.DisplayManager'
     }
     baseName = 'all-in-one-jar'
     from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
@@ -119,6 +119,7 @@ dependencies {
     runtimeOnly "org.lwjgl:lwjgl-xxhash::$lwjglNatives"
     runtimeOnly "org.lwjgl:lwjgl-yoga::$lwjglNatives"
     runtimeOnly "org.lwjgl:lwjgl-zstd::$lwjglNatives"
+
     compile 'org.codehaus.groovy:groovy-all:2.3.11'
     compile group: 'org.joml', name: 'joml-camera', version:'1.2.0-SNAPSHOT'
     compile group: 'org.lwjgl', name: 'lwjgl', version:'3.2.3-SNAPSHOT'
@@ -129,6 +130,8 @@ dependencies {
     compile group: 'org.lwjgl', name: 'lwjgl-opengl', version:'3.2.3-SNAPSHOT', classifier:'natives-macos'
     compile group: 'org.lwjgl', name: 'lwjgl-glfw', version:'3.2.3-SNAPSHOT', classifier:'natives-macos'
     compile group: 'org.lwjgl', name: 'lwjgl-stb', version:'3.2.3-SNAPSHOT', classifier:'natives-macos'
+
+
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
 
