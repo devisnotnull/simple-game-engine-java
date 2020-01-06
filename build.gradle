@@ -7,7 +7,7 @@ apply plugin: "java"
 apply plugin: "idea"
 
 ext {
-    javaMainClass = "org.devnotnull.gamily.DisplayManager"
+    javaMainClass = "org.devnotnull.gamily.FragmentTriangle"
 }
 
 project.ext.lwjglVersion = "3.2.3"
@@ -29,7 +29,7 @@ application {
 
 task fatJar(type: Jar) {
     manifest {
-        attributes 'Main-Class': 'org.devnotnull.gamily.DisplayManager'
+        attributes 'Main-Class': 'org.devnotnull.gamily.FragmentTriangle'
     }
     baseName = 'all-in-one-jar'
     from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }

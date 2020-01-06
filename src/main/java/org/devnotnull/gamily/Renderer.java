@@ -1,20 +1,19 @@
 package org.devnotnull.gamily;
 
-import org.lwjgl.opengl.GL40;
-
+import static org.lwjgl.opengl.GL30.*;
 
 public class Renderer {
 
     public void prepare() {
-        GL40.glClearColor(0, 0, 1, 1);
-        GL40.glClear(GL40.GL_COLOR_BUFFER_BIT);
+        glClear(GL_COLOR_BUFFER_BIT);
+        glClearColor(1, 0, 0, 1);
     }
 
     public void render(RawModel model) {
-        GL40.glBindVertexArray(model.getVaoID());
-        GL40.glEnableVertexAttribArray(0);
-        GL40.glDrawElements(GL40.GL_TRIANGLES, model.getVertexCount(), GL40.GL_UNSIGNED_INT, 0);
-        GL40.glDisableVertexAttribArray(0);
-        GL40.glBindVertexArray(0);
+        glBindVertexArray(model.getVaoID());
+        glEnableVertexAttribArray(0);
+        glDrawElements(GL_TRIANGLES, model.getVertexCount(), GL_UNSIGNED_INT, 0);
+        glDisableVertexAttribArray(0);
+        glBindVertexArray(0);
     }
 }

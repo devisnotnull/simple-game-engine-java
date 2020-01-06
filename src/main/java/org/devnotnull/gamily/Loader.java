@@ -1,8 +1,8 @@
 package org.devnotnull.gamily;
 
+import static org.lwjgl.opengl.GL30.*;
 import org.lwjgl.BufferUtils;
-import org.lwjgl.opengl.GL40;
-
+import org.lwjgl.opengl.GL30;
 import java.nio.FloatBuffer;
 import java.nio.IntBuffer;
 import java.util.ArrayList;
@@ -27,45 +27,45 @@ public class Loader {
 
     private int createVao() {
         // Create a VAO
-        int vaoId = GL40.glGenVertexArrays();
+        int vaoId = glGenVertexArrays();
         // We need to keep track of the VAOs are they are created
         vaoList.add(vaoId);
         // Bind to opengl
-        GL40.glBindVertexArray(vaoId);
+        GL30.glBindVertexArray(vaoId);
         // Assign or new vao vertex array
         return vaoId;
     }
 
     private void storeAtttributesInList(int index, float[] payload) {
         // Create a VBO
-        int vboId = GL40.glGenBuffers();
+        int vboId = glGenBuffers();
         // We need to keep trac of the VBO as we create it
         vboList.add(vboId);
         // Bind to opengl
-        GL40.glBindBuffer(GL40.GL_ARRAY_BUFFER, vboId);
+        glBindBuffer(GL_ARRAY_BUFFER, vboId);
         //
         FloatBuffer buffer = storeInFloatBuffer(payload);
         // Create buffered data and use static draw as we will not be modifying this data structure.
         // GL_ARRAY_BUFFER is used to represent vertices
-        GL40.glBufferData(GL40.GL_ARRAY_BUFFER, buffer, GL40.GL_STATIC_DRAW);
+        glBufferData(GL_ARRAY_BUFFER, buffer, GL_STATIC_DRAW);
         // We use 3 given we are using x,y,z
-        GL40.glVertexAttribPointer(index, 3, GL40.GL_FLOAT, false, 0, 0);
+        glVertexAttribPointer(index, 3, GL_FLOAT, false, 0, 0);
     }
 
     public void unbindVao() {
-        GL40.glBindVertexArray(0);
+        glBindVertexArray(0);
     }
 
     private void bindIndicesBuffer (int[] indices) {
-        int vboId = GL40.glGenBuffers();
+        int vboId = glGenBuffers();
         //
         vboList.add(vboId);
         // GL_ELEMENT_ARRAY_BUFFER used to represent indices
-        GL40.glBindBuffer(GL40.GL_ELEMENT_ARRAY_BUFFER, vboId);
+        glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, vboId);
         //
         IntBuffer buffer = storeInIntBuffer(indices);
         //
-        GL40.glBufferData(GL40.GL_ELEMENT_ARRAY_BUFFER, buffer, GL40.GL_STATIC_DRAW);
+        glBufferData(GL_ELEMENT_ARRAY_BUFFER, buffer, GL_STATIC_DRAW);
     }
 
     private IntBuffer storeInIntBuffer(int[] payload) {
@@ -83,7 +83,8 @@ public class Loader {
     }
 
     public void cleanUp() {
-        vaoList.forEach(GL40::glDeleteVertexArrays);
-        vboList.forEach(GL40::glDeleteBuffers);
+        vaoList.forEach(GL30::glDeleteVertexArrays);
+        vboList.forEach(GL30::glDeleteBuffers);
     }
 }
+
